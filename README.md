@@ -4,6 +4,10 @@
 Un chatbot creado en **Python** con la librería [ChatterBot](https://github.com/gunthercox/ChatterBot), que aprende a conversar a partir de datasets personalizados 🧠.  
 Este proyecto busca demostrar cómo entrenar y adaptar un modelo conversacional clásico según distintos contextos o estilos de conversación.
 
+### 🎬 **Demo**
+
+![Demo Chatbot](demo/demo-chatbot.gif)
+
 ---
 
 ### 🚀 **Características principales**
